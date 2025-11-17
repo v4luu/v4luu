@@ -1,9 +1,13 @@
 # Hey, It's Valu here!
 
 ٠࣪⭑ Currently studying Computer Science & Artificial Intelligence and constantly exploring new areas of tech.
+
 ٠࣪⭑ Highly creative by nature, always looking for new ways to build, design, and solve problems.
+
 ٠࣪⭑ I genuinely enjoy front-end development — turning ideas into interactive experiences is one of my favorite parts of coding.
+
 ٠࣪⭑ My projects are simple for now, but I'm working on expanding my skills and will be sharing more ambitious work soon.
+
 ٠࣪⭑ Always learning, always experimenting, always improving.
 
 ## Tech Stack ⋆｡˖°
